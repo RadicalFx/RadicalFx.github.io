@@ -1,0 +1,29 @@
+.avatar-container{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  text-align: center;
+}
+
+.avatar-container .avatar-box{
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.avatar {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  }
+
+  .avatar.avatar-mauro{
+    background: url(http://www.gravatar.com/avatar/564020cbbb92cb1b9ee0bb20ff062745.png?s=120) no-repeat;
+  }
+
+  .avatar.avatar-mitch{
+    background: url(http://www.gravatar.com/avatar/713d5b40037d18409eb08cc47e5aaf60.png?s=120) no-repeat;
+  }
