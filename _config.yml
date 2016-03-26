@@ -10,7 +10,7 @@ highlighter: rouge
 ### content configuration ###
 title:       "Radical Framework"
 keywords:    "Radical, MVVM, WPF, Universal Apps"
-description: "Radical is an infrastructure framework whose primary role is to help in the development of composite WPF and Universal applications based on the Model View ViewModel pattern."
+description: "Radical is an infrastructure framework whose primary role is to help in the development of composite WPF and Universal applications based on the Model-View-ViewModel pattern."
 source_link: "https://github.com/RadicalFx/RadicalFx.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
