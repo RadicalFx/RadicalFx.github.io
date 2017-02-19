@@ -4,7 +4,7 @@ Radical is a framework whose primary role is to help in the development of compo
 
 #### Code | Packages | Documentation
 
-[WPF / Full framework](https://github.com/RadicalFx/radical) | [Universal Apps (WinRT & WP)](https://github.com/RadicalFx/radical-universal) | [NuGet packages](http://www.nuget.org/profiles/radical) | [GitHub WiKi](https://github.com/RadicalFx/radical/wiki)
+[WPF](https://github.com/RadicalFx/radical) | [Universal Apps](https://github.com/RadicalFx/radical-universal) | [Packages](http://www.nuget.org/profiles/radical) | [Docs](https://github.com/RadicalFx/radical/wiki)
 
 ### Concentrate on the business needs not on the infrastructure!
 
@@ -14,7 +14,7 @@ Radical comes with a predefined configuration, based on highly customizable conv
 
 ### Easy peasy lemon squeezy, with the 5' tutorials!
 
-#### [WPF / Full framework](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28WPF%29) | [Universal Apps (WinRT & WP)](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28Universal-App%29)
+#### [WPF](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28WPF%29) | [Universal Apps](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28Universal-App%29)
 
 Setting up a new Radical application is as easy as:
 
