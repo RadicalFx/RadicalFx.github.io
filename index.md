@@ -2,13 +2,13 @@
 
 [WPF](https://github.com/RadicalFx/radical) | [Universal Apps](https://github.com/RadicalFx/radical-universal) | [Packages](http://www.nuget.org/profiles/radical) | [Docs](https://github.com/RadicalFx/radical/wiki)
 
-### Concentrate on the business needs not on the infrastructure!
+### Concentrate on business needs not on infrastructure
 
 Front-end developers needs to concentrate all their effort in building UIs that respond to their stakeholders needs not on the infrastructure required to support that UIs. Our goal is to support the developer with a powerful framework that provides all the infrastructure required to build amazing and easy to maintain user interface.
 
 Radical comes with a predefined configuration, based on highly customizable conventions, that drives the developer in setting up the development environment in what we think is the most productive setup.
 
-### Easy peasy lemon squeezy, with the 5' tutorials!
+### Easy peasy lemon squeezy, with the 5' tutorials
 
 #### [WPF](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28WPF%29) | [Universal Apps](https://github.com/RadicalFx/radical/wiki/Quick-Start-%28Universal-App%29)
 
