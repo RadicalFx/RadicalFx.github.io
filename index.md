@@ -1,6 +1,9 @@
-#### Code | Packages | Documentation
+#### Code, Packages and Documentation
 
-[WPF](https://github.com/RadicalFx/radical) | [Universal Apps](https://github.com/RadicalFx/radical-universal) | [Packages](http://www.nuget.org/profiles/radical) | [Docs](https://github.com/RadicalFx/radical/wiki)
+* [WPF Source](https://github.com/RadicalFx/radical)
+* [Universal Apps Source](https://github.com/RadicalFx/radical-universal)
+* [Nuget Packages](http://www.nuget.org/profiles/radical)
+* [Documentation](https://docs.radicalframework.com/)
 
 ### Concentrate on business needs not on infrastructure
 
