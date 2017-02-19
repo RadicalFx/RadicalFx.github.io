@@ -1,7 +1,3 @@
-# Radical Framework
-
-Radical is a framework whose primary role is to help in the development of composite WPF and Universal applications based on the Model View ViewModel pattern.
-
 #### Code | Packages | Documentation
 
 [WPF](https://github.com/RadicalFx/radical) | [Universal Apps](https://github.com/RadicalFx/radical-universal) | [Packages](http://www.nuget.org/profiles/radical) | [Docs](https://github.com/RadicalFx/radical/wiki)
