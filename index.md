@@ -40,7 +40,6 @@ We recently setup a [Google Group](https://groups.google.com/forum/#!forum/radic
 
 ### Who we are
 
-* [Enos](https://github.com/enosrecanati)
 * [Mauro](https://github.com/mauroservienti)
 * [Michael](https://github.com/micdenny)
 * [Nazareno](https://github.com/nazarenomanco)
