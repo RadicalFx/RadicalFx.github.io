@@ -6,7 +6,7 @@
 
 ### Concentrate on business needs not on infrastructure
 
-Front-end developers needs to concentrate all their effort in building UIs that respond to their stakeholders needs not on the infrastructure required to support that UI. Our goal is to support the developer with a powerful framework that provides all the infrastructure required to build amazing and easy to maintain user interface.
+Front-end developers need to concentrate all their effort in building UIs that respond to their stakeholders' needs, not on the infrastructure required to support that UI. Our goal is to support the developer with a powerful framework that provides all the infrastructure required to build an amazing and easy-to-maintain user interface.
 
 Radical comes with a predefined configuration, based on highly customizable conventions, that drives the developer in setting up the development environment in what we think is the most productive setup.
 
