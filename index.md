@@ -1,8 +1,11 @@
 #### Code, Packages and Documentation
 
 * [WPF Source](https://github.com/RadicalFx/radical.windows)
+* [Avalonia Source](https://github.com/RadicalFx/Radical.Avalonia)
 * [Nuget Packages](http://www.nuget.org/profiles/radical)
+* [Pre-release Packages](https://f.feedz.io/radical-framework/pre-releases/nuget/index.json) (Feedz.io)
 * [Documentation](https://docs.radicalframework.com/)
+* [Samples](https://docs.radicalframework.com/samples), with WPF and Avalonia versions side by side
 
 ### Concentrate on business needs not on infrastructure
 
@@ -22,12 +25,16 @@ Setting up a new Radical application is as easy as:
 * define your first `View` and, if required, `ViewModel`;
 * add one single line of code to bootstrap the application;
 
-### Visual Studio templates
+#### [Avalonia](https://docs.radicalframework.com/avalonia/avalonia)
 
-To make things as easy as possible we also have Visual Studio templates published on the Visual Studio gallery, [go and download](https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd) them to startup your project as fast as a lightning with all what you need.
+Radical for Avalonia mirrors the WPF API, and runs on Windows, macOS, Linux, mobile, and the browser. Setting up a new Radical Avalonia application is as easy as:
 
-* You can download the VSIX package directly from the Gallery to install it offline: [https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd](https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd);
-* Or you can use the Visual Studio "Extensions and Updates" dialog to install Radical templates, simply look for `Radical Templates`, or just `Radical`;
+* create a new `Avalonia` project;
+* add the `Radical.Avalonia` package, currently a pre-release available on the Feedz.io pre-release feed;
+* define your first `View` and, if required, `ViewModel`;
+* add one single line of code, in `OnFrameworkInitializationCompleted`, to bootstrap the application;
+
+Moving an existing application from WPF? The [migration guide](https://docs.radicalframework.com/avalonia/avalonia/migrating-from-radical-windows) lists what changes.
 
 ### Get in touch
 
