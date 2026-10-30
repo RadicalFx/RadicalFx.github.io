@@ -1,8 +1,11 @@
 #### Code, Packages and Documentation
 
 * [WPF Source](https://github.com/RadicalFx/radical.windows)
+* [Avalonia Source](https://github.com/RadicalFx/Radical.Avalonia)
 * [Nuget Packages](http://www.nuget.org/profiles/radical)
+* [Pre-release Packages](https://f.feedz.io/radical-framework/pre-releases/nuget/index.json) (Feedz.io)
 * [Documentation](https://docs.radicalframework.com/)
+* [Samples](https://docs.radicalframework.com/samples), with WPF and Avalonia versions side by side
 
 ### Concentrate on business needs not on infrastructure
 
@@ -21,6 +24,17 @@ Setting up a new Radical application is as easy as:
 * add Radical packages using Nuget;
 * define your first `View` and, if required, `ViewModel`;
 * add one single line of code to bootstrap the application;
+
+#### [Avalonia](https://docs.radicalframework.com/avalonia/avalonia)
+
+Radical for Avalonia mirrors the WPF API, and runs on Windows, macOS, Linux, mobile, and the browser. Setting up a new Radical Avalonia application is as easy as:
+
+* create a new `Avalonia` project;
+* add the `Radical.Avalonia` package, currently a pre-release available on the Feedz.io pre-release feed;
+* define your first `View` and, if required, `ViewModel`;
+* add one single line of code, in `OnFrameworkInitializationCompleted`, to bootstrap the application;
+
+Moving an existing application from WPF? The [migration guide](https://docs.radicalframework.com/avalonia/avalonia/migrating-from-radical-windows) lists what changes.
 
 ### Visual Studio templates
 

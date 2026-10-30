@@ -7,8 +7,8 @@ lsi: false
 
 ### content configuration ###
 title:       "Radical Framework"
-keywords:    "Radical, MVVM, WPF, Universal Apps"
-description: "Radical is an infrastructure framework whose primary role is to help in the development of composite WPF and Universal applications based on the Model-View-ViewModel pattern."
+keywords:    "Radical, MVVM, WPF, Avalonia"
+description: "Radical is an infrastructure framework whose primary role is to help in the development of composite WPF and Avalonia applications based on the Model-View-ViewModel pattern."
 source_link: "https://github.com/RadicalFx/RadicalFx.github.io"
 
 theme: jekyll-theme-minimal
