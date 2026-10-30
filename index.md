@@ -36,13 +36,6 @@ Radical for Avalonia mirrors the WPF API, and runs on Windows, macOS, Linux, mob
 
 Moving an existing application from WPF? The [migration guide](https://docs.radicalframework.com/avalonia/avalonia/migrating-from-radical-windows) lists what changes.
 
-### Visual Studio templates
-
-To make things as easy as possible we also have Visual Studio templates published on the Visual Studio gallery, [go and download](https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd) them to startup your project as fast as a lightning with all what you need.
-
-* You can download the VSIX package directly from the Gallery to install it offline: [https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd](https://visualstudiogallery.msdn.microsoft.com/22dd31eb-3cb7-4027-972c-a6c96671cddd);
-* Or you can use the Visual Studio "Extensions and Updates" dialog to install Radical templates, simply look for `Radical Templates`, or just `Radical`;
-
 ### Get in touch
 
 We are here to help you to get the most out of Radical, the [documentation](https://docs.radicalframework.com/) is the first place to look for information, if you can't find something in the documentation that suites your needs please raise an [issue](https://github.com/RadicalFx/radical/issues) and we'll fix it.
